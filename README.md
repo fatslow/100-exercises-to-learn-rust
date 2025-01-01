@@ -1,3 +1,15 @@
+# Getting Started
+
+Verfolge den Kurs hier
+[Course](https://rust-exercises.com/100-exercises/)
+
+Next: https://rust-exercises.com/100-exercises/02_basic_calculator/06_while
+
+Reiche Loesung ein
+```bash
+$ wr
+```
+
 # Learn Rust, one exercise at a time
 
 You've heard about Rust, but you never had the chance to try it out?\
